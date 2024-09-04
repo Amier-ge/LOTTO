@@ -1,0 +1,4 @@
+﻿  lotto.c
+c:\users\home\documents\visual studio 2010\projects\lotto\lotto\lotto.c(13): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\home\documents\visual studio 2010\projects\lotto\lotto\lotto.c(13): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  lotto.vcxproj -> c:\users\home\documents\visual studio 2010\Projects\lotto\Debug\lotto.exe
